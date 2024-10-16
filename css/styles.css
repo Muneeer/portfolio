@@ -10130,4 +10130,21 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+
+  .download-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #495057;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.download-button:hover {
+    background-color: #BD5D38; 
+    color: white;
+    text-decoration: none;
+}
+
 }
